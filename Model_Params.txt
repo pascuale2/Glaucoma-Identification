@@ -1,0 +1,44 @@
+
+Model Parameters:
+MODEL NAME: UNet++_2ch_tb:
+
+Learning Rate: 0.0001
+Step Size: 10
+Gamma: 0.1
+Gamma: 0.1
+Epochs: 25
+BATCH SIZE: 5
+
+MODEL NAME: UNet++_2ch_2tb:
+
+Learning Rate: 0.0001
+Step Size: 5
+Gamma: 0.1
+Epochs: 25
+BATCH SIZE: 5
+
+MODEL NAME: UNet++_2ch_2tb:
+
+Learning Rate: 0.0001
+Step Size: 1
+Gamma: 0.1
+Epochs: 25
+BATCH SIZE: 5
+
+MODEL NAME: UNet++_2ch_cropped:
+
+Learning Rate: 0.0001
+Step Size: 10
+Gamma: 0.1
+Epochs: 25
+BATCH SIZE: 5
+IMAGES ARE CROPPED
+
+MODEL NAME: UNet++_3ch_cropped:
+
+Learning Rate: 0.0001
+Step Size: 10
+Gamma: 0.1
+Epochs: 25
+BATCH SIZE: 5
+IMAGES ARE CROPPED
