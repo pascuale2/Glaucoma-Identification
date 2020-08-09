@@ -1,7 +1,7 @@
 # Glaucoma-Identification
 Optical Disc/Cup segmentation of retinal images using my implementation of UNet++. \
 <p align="center">
-  **This Repository is still a WORK IN PROGRESS** 
+ <b>This Repository is still a WORK IN PROGRESS</b>
 </p>
 
 ## Model: UNet++ 
