@@ -6,9 +6,8 @@ Optical Disc/Cup segmentation of retinal images using my implementation of UNet+
 </p>
 
 ## Model: UNet++ 
+<img src="https://miro.medium.com/max/658/1*ExIkm6cImpPgpetFW1kwyQ.png" width="320" height="200">
 <a href="https://arxiv.org/abs/1807.10165">UNet++ Paper</a>
-<img src="https://miro.medium.com/max/658/1*ExIkm6cImpPgpetFW1kwyQ.png" width="250" height="150">
-
 
 <hr>
 
